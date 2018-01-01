@@ -42,7 +42,7 @@ h2 {
 #tierliste {
 	text-align: left;
 	list-style: none;
-	padding: 0px;
+	padding: 0;
 }
 #tierliste li span{
 	font-size: 1.1em;
